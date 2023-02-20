@@ -1,4 +1,4 @@
-#First React Project
+# First React Project
 
 This static page project contains the setlist of Arctic Monkeys' 2022/2023 tour. 
 
@@ -8,12 +8,12 @@ The first project is a page with some facts about React, but I made something th
 Deploying the site was definitely tricky as it was my first time working directly with NPM, but with help from a friend it is successfully deployed on Netlify which was taught on Scrimba.
 
 
-##Live Demo
+## Live Demo
 
 To see the live demo [click here](https://warm-brigadeiros-9a6a2c.netlify.app/)
 
 
-##Built with
+## Built with
 
 - React
 - CSS
